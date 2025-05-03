@@ -19,7 +19,7 @@ I'm a dedicated developer, passionate about solving problems and committed to ex
 ---
 [![](https://visitcount.itsvg.in/api?id=realrohitsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# ![image](https://github.com/user-attachments/assets/7edd186b-d9bb-40a5-9eee-b6e06e86e24b) Resume:
+# Resume:
 https://drive.google.com/file/d/1GNQf8XbgGSs1qf7XQkH8HVbrXRVn8ltM/view?usp=sharing
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
