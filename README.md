@@ -19,7 +19,7 @@ I'm a dedicated developer, passionate about solving problems and committed to ex
 ---
 [![](https://visitcount.itsvg.in/api?id=realrohitsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**#🤝 Let's Connect! **
+# 🤝 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭:
 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you'd like to connect!
 
 # Resume:
