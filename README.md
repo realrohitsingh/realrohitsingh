@@ -5,11 +5,9 @@
 I'm a dedicated developer, passionate about solving problems and committed to excellence. With strong analytical skills and adaptability to new technologies, I continuously stay current with industry advancements to deliver innovative solutions.<br><br>🎓 Pursuing B.Tech in Information Technology at Bengal College of Engineering and Technology<br>🚀 Currently working on new projects.<br>🔍 Previously interned as a Software Developer at InternPe India.<br>👥 Event Management Lead in Robotics Club and Governor of Coding Club
 
 # 💻 Tech Stack:
-- Languages: JavaScript, Java
-- Library: ReactJS
-- Framework: Node Js, Express Js, CSS3, HTML5
-- Database: MongoDB, mySQL
-- Tools & Platforms: Git, Github, Figma, VScode
+- Frontend: HTML5, CSS3, JavaScript, React.js 
+- Languages: JavaScript, Java 
+- Tools & Platforms: Git, GitHub, VS Code, Figma 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=realrohitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
