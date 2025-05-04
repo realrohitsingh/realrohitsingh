@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 
 ## 🌐 **Socials**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/realrohitsingh18/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realrohitsingh/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-singh-b10374189/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?logo=github&logoColor=white)](https://github.com/realrohitsingh/realrohitsingh)
 
 ---
