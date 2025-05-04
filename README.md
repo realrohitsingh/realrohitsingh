@@ -21,6 +21,6 @@ I'm a dedicated developer, passionate about solving problems and committed to ex
 I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you'd like to connect!
 
 # Resume:
-https://drive.google.com/file/d/1GNQf8XbgGSs1qf7XQkH8HVbrXRVn8ltM/view?usp=sharing
+https://drive.google.com/file/d/1AXPQEW2Mo0k8cjJmzvYGvIY3Y1o4SU5A/view?usp=sharing
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
