@@ -1,4 +1,4 @@
-# 🌟 **realrohitsingh** 
+# 🌟 **ROHIT KUMAR SINGH** 
 
 Welcome to my GitHub profile! I'm a passionate developer who loves solving problems, learning new technologies, and contributing to the tech community. Explore my work below and feel free to connect!
 
@@ -50,7 +50,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 
 ## 🏆 **Achievements**
 - **Open Source Contributor**: Contributed to several open-source projects.
-- **Hackathon Participant**: Participated in and won multiple coding hackathons.
 - **Certifications**: [View my certifications here](#).
 
 ---
@@ -58,27 +57,13 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 ## 🤝 **Let's Connect**
 I'm always open to collaborating on projects and discussing innovative ideas. Feel free to reach out!
 
-- 📧 **Email**: realrohitsingh@example.com (replace with your email)
-- 💬 **LinkedIn Messaging**: [Connect with me here](https://www.linkedin.com/in/realrohitsingh/)
+- 📧 **Email**: rohitsingh888399@gmail.com
+- 💬 **LinkedIn Messaging**: [Connect with me here](https://www.linkedin.com/in/rohit-singh-b10374189/)
 
 ---
 
 ## 📄 **Resume**
 Want to know more about my professional experience? Check out my resume below:  
 [![Resume](https://img.shields.io/badge/Resume-Click%20Here-%23171717.svg?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1AXPQEW2Mo0k8cjJmzvYGvIY3Y1o4SU5A/view?usp=sharing)
-
----
-
-## 🛠️ **Projects**
-### 🚀 Featured Projects
-1. **[Project Name](#)**: Brief description of the project.  
-   Tech Stack: React.js, Node.js, etc.
-2. **[Project Name](#)**: Brief description of the project.  
-   Tech Stack: HTML, CSS, JavaScript.
-
----
-
-## 📈 **Profile Visitors**
-[![](https://visitcount.itsvg.in/api?id=realrohitsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
