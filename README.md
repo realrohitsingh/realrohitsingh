@@ -1,26 +1,84 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/realrohitsingh18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohit-singh-b10374189/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_iamrohit01_) 
+# 🌟 **realrohitsingh** 
 
-# 💫 About Me:
-I'm a dedicated developer, passionate about solving problems and committed to excellence. With strong analytical skills and adaptability to new technologies, I continuously stay current with industry advancements to deliver innovative solutions.<br><br>🎓 Pursuing B.Tech in Information Technology at Bengal College of Engineering and Technology<br>🚀 Currently working on new projects.<br>🔍 Previously interned as a Software Developer at InternPe India.<br>👥 Event Management Lead in Robotics Club and Governor of Coding Club
+Welcome to my GitHub profile! I'm a passionate developer who loves solving problems, learning new technologies, and contributing to the tech community. Explore my work below and feel free to connect!
 
-# 💻 Tech Stack:
-- Frontend: HTML5, CSS3, JavaScript, React.js 
-- Languages: JavaScript, Java 
-- Tools & Platforms: Git, GitHub, VS Code, Figma 
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=realrohitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=realrohitsingh&theme=dark&hide_border=false)<br/>
+## 🌐 **Socials**
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/realrohitsingh18/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realrohitsingh/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23171717.svg?logo=github&logoColor=white)](https://github.com/realrohitsingh/realrohitsingh)
+
+---
+
+## 💫 **About Me**
+- 🔭 **Currently Working On**: Exciting projects in web development and open-source contributions.
+- 🌱 **Learning**: Exploring advanced JavaScript, React.js, and backend development.
+- 💡 **Hobbies**: Coding, designing, and staying updated with industry trends. 
+- 🎯 **Goal**: To make a meaningful impact on the tech community by sharing knowledge and contributing to innovative projects.
+- 💬 **Ask Me About**: Web development, GitHub workflows, or anything tech-related!
+
+---
+
+## 💻 **Tech Stack**
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232A.svg?logo=react&logoColor=%2361DAFB)
+
+### Languages:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+
+### Tools & Platforms:
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white)
+
+---
+
+## 📊 **GitHub Stats**
+![](https://github-readme-stats.vercel.app/api?username=realrohitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=realrohitsingh&theme=dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=realrohitsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+## 🏆 **Achievements**
+- **Open Source Contributor**: Contributed to several open-source projects.
+- **Hackathon Participant**: Participated in and won multiple coding hackathons.
+- **Certifications**: [View my certifications here](#).
+
+---
+
+## 🤝 **Let's Connect**
+I'm always open to collaborating on projects and discussing innovative ideas. Feel free to reach out!
+
+- 📧 **Email**: realrohitsingh@example.com (replace with your email)
+- 💬 **LinkedIn Messaging**: [Connect with me here](https://www.linkedin.com/in/realrohitsingh/)
+
+---
+
+## 📄 **Resume**
+Want to know more about my professional experience? Check out my resume below:  
+[![Resume](https://img.shields.io/badge/Resume-Click%20Here-%23171717.svg?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1AXPQEW2Mo0k8cjJmzvYGvIY3Y1o4SU5A/view?usp=sharing)
+
+---
+
+## 🛠️ **Projects**
+### 🚀 Featured Projects
+1. **[Project Name](#)**: Brief description of the project.  
+   Tech Stack: React.js, Node.js, etc.
+2. **[Project Name](#)**: Brief description of the project.  
+   Tech Stack: HTML, CSS, JavaScript.
+
+---
+
+## 📈 **Profile Visitors**
 [![](https://visitcount.itsvg.in/api?id=realrohitsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🤝 𝐋𝐞𝐭'𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭:
-I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you'd like to connect!
-
-# 📄 Resume  
-Want to know more about my professional experience? [Check out my resume here.](https://drive.google.com/file/d/1AXPQEW2Mo0k8cjJmzvYGvIY3Y1o4SU5A/view?usp=sharing)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
