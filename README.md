@@ -64,6 +64,6 @@ I'm always open to collaborating on projects and discussing innovative ideas. Fe
 
 ## 📄 **Resume**
 Want to know more about my professional experience? Check out my resume below:  
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1pXJW5IQAn_Gsx_HVroLxeLZ6IMsV1Toj/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1uDyyJznCB5jbTmuqRx3NZyb3nnavjNBZ/view?usp=sharing)
 
 ---
