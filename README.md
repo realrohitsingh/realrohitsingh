@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 ## 🤝 **Let's Connect**
 I'm always open to collaborating on projects and discussing innovative ideas. Feel free to reach out!
 
-- 📧 **Email**: rohitsingh888399@gmail.com
+- 📧 **Email**: rohitsingh888399@outlook.com
 - 💬 **LinkedIn Messaging**: [Connect with me here](https://www.linkedin.com/in/rohit-singh-b10374189/)
 
 ---
