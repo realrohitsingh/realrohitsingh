@@ -1,5 +1,3 @@
-# 🌟 **ROHIT KUMAR SINGH**
-
 <h1 align="center">Hi 👋🌟, I'm ROHIT KUMAR SINGH | Java Full Stack Developer</h1>
 <h3 align="center">🚀 Aspiring Java Full Stack Developer | Learning in Java, Spring Boot, SQL & React.js</h3>
 
