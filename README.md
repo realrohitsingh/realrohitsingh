@@ -1,7 +1,7 @@
 # 🌟 **ROHIT KUMAR SINGH**
 
-<h1 align="center">Hi 👋, I'm Rohit Singh | Java Full Stack Developer</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Skilled in Java, Spring Boot, SQL & React.js</h3>
+<h1 align="center">Hi 👋🌟, I'm ROHIT KUMAR SINGH | Java Full Stack Developer</h1>
+<h3 align="center">🚀 Aspiring Java Full Stack Developer | Learning in Java, Spring Boot, SQL & React.js</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=realrohitsingh&label=Profile%20views&color=0e75b6&style=flat" alt="realrohitsingh" /> 
