@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves solving probl
 - 💬 **Ask Me About**: React.js, JavaScript, HTML5, CSS3  
 - 📫 **Reach Me At**: rohitsingh888399@outlook.com  
 - 👨‍💻 **All of my projects**: [GitHub Profile](https://github.com/realrohitsingh)  
-- 📄 **Know About My Experiences**: [View Resume](https://drive.google.com/file/d/14VcKRgBccNdv1cJ8GNDFiejhTjBVgnt0/view?usp=sharing)  
+- 📄 **Know About My Experiences**: [View Resume](https://drive.google.com/file/d/1Ifu_6BXpKNrRQR0hPVzpRQ5sEXac6q69/view?usp=sharing)  
 - ⚡ **Fun Fact**: I enjoy learning new technologies and experimenting with **Full Stack Development 🚀**  
 
 ---
@@ -73,6 +73,6 @@ I'm always open to collaborating on projects and discussing innovative ideas. Fe
 
 ## 📄 **Resume**
 Want to know more about my professional experience?  
-[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/14VcKRgBccNdv1cJ8GNDFiejhTjBVgnt0/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue)](https://drive.google.com/file/d/1Ifu_6BXpKNrRQR0hPVzpRQ5sEXac6q69/view?usp=sharing)
 
 ---
