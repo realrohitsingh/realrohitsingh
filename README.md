@@ -140,6 +140,17 @@ I enjoy building production-ready applications using **Java, Spring Boot, SQL, a
 
 ---
 
+## 🌐 Personal Portfolio
+
+I also maintain a **personal developer portfolio** showcasing my projects, skills, and experience with a clean UI and responsive design.
+
+- 💼 Project showcases with live demos  
+- 🧠 Skills & tech stack overview  
+- 📄 Resume access  
+- 📱 Fully responsive design  
+
+🔗 **Portfolio Website**: https://rohitks.site
+
 ## 🌐 Connect With Me
 
 - 📧 **Email**: rohitsingh888399@gmail.com  
