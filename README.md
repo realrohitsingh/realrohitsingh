@@ -3,7 +3,7 @@ Copy code
 # Rohit Kumar Singh | Java Full Stack Developer
 
 👨‍💻 **Java Full Stack Developer (Fresher)** | 💼 **Backend-focused with working knowledge of React**  
-📍 **Location**: Durgapur, West Bengal, India  
+📍 **Location**: Bengaluru, Karnataka, India  
 📧 **Email**: [rohitsingh888399@gmail.com](mailto:rohitsingh888399@gmail.com)  
 🔗 **LinkedIn**: [rohit-singh-java](https://www.linkedin.com/in/rohit-singh-java/)  
 🌐 **GitHub**: [realrohitsingh](https://github.com/realrohitsingh)
