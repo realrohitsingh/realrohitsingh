@@ -1,97 +1,113 @@
-markdown
-Copy code
-# Rohit Kumar Singh | Java Full Stack Developer
+<!-- Animated Header -->
+<h1 align="center">
+  Hi 👋, I'm Rohit Kumar Singh
+</h1>
 
-👨‍💻 **Java Full Stack Developer (Fresher)** | 💼 **Backend-focused with working knowledge of React**  
-📍 **Location**: Bengaluru, Karnataka, India  
-📧 **Email**: [rohitsingh888399@gmail.com](mailto:rohitsingh888399@gmail.com)  
-🔗 **LinkedIn**: [rohit-singh-java](https://www.linkedin.com/in/rohit-singh-java/)  
-🌐 **GitHub**: [realrohitsingh](https://github.com/realrohitsingh)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+SQL;Secure+and+Scalable+Systems;Open+to+Backend+%2F+Full+Stack+Roles" />
+</p>
 
----
+<p align="center">
+  <a href="https://www.rohitks.site" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="https://linkedin.com/in/rohit-singh-java" target="_blank"><b>LinkedIn</b></a> •
+  <a href="mailto:rohitsingh888399@gmail.com"><b>Email</b></a>
+</p>
 
-## About Me
-
-I am a **Java Full Stack Developer** with a strong focus on backend development, leveraging technologies like **Java**, **Spring Boot**, **REST APIs**, **JWT**, and **SQL**. My passion lies in building scalable and secure backend systems, and I have a working knowledge of **React.js** for frontend integration. I am eager to learn, collaborate, and contribute to open-source projects.
-
----
-
-## Tech Stack
-
-**Languages**:  
-- Java, SQL, JavaScript (ES6)
-
-**Backend**:  
-- Spring Boot, Spring Data JPA, REST APIs, Servlets, JSP, JDBC, JWT
-
-**Frontend**:  
-- React.js, HTML5, CSS3, Tailwind CSS
-
-**Databases**:  
-- MySQL, PostgreSQL
-
-**Cloud Platforms**:  
-- AWS (EC2, S3, RDS), Microsoft Azure (App Service, Azure SQL)
-
-**Tools**:  
-- Git, GitHub, Docker, Maven, Postman, IntelliJ IDEA, VS Code
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=realrohitsingh&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## Projects
+## 👨‍💻 About Me
 
-### 🌟 [Intelligent Resume Screening Tool](https://github.com/realrohitsingh/Resume-Screening-Tool)
-- **Technologies**: Java, Spring Boot, React.js, SQL
-- **Description**: A smart system designed to parse resumes and apply keyword-based filtering, reducing manual screening time by 40%.
-- **Key Features**: 
-  - Developed RESTful backend services using Spring Boot to efficiently handle high-volume candidate data.
-  - Created a responsive React.js interface for real-time workflow management and candidate data visualization.
+Backend-focused **Java Full Stack Developer (Fresher)** with hands-on experience in building **secure, scalable, production-ready systems** using **Spring Boot** and **REST APIs**.  
+Comfortable integrating modern frontends using **React**, with a strong focus on **clean architecture, security, and performance**.
 
-### 🎓 [Student Management System](https://github.com/realrohitsingh/Student-Management-System-Java-Servlet-JSP-Project)
-- **Technologies**: Java, Servlets, JSP, JDBC, MySQL
-- **Description**: A centralized academic management system to handle over 500 student records with validated CRUD operations.
-- **Key Features**:
-  - Implemented MVC architecture for separation of concerns, enhancing scalability and maintainability.
-  - Optimized SQL queries for data integrity and faster retrieval for administrative reporting.
-
-### 🛒 [SmartShop – E-commerce Platform](https://github.com/realrohitsingh/shopping-app-react-project)
-- **Technologies**: React.js, Tailwind CSS, JSON Server
-- **Description**: Developed an e-commerce platform’s admin dashboard for inventory, orders, and customer management.
-- **Key Features**:
-  - Built role-based access control (RBAC) for secure admin and user privileges.
+🎯 Actively seeking **Java Backend / Software Engineer** roles.
 
 ---
 
-## Experience
+## 🛠️ Tech Stack
 
-### 💻 Software Developer Intern (Backend) | [Go Academy](https://www.goacademy.com)  
-**June 2025 – Nov 2025 | Bangalore, India**  
-- Engineered scalable backend modules using **Java Servlets**, **JSP**, **JDBC**, and **MySQL**, supporting CRUD operations for 5+ domain entities.
-- Implemented **JWT-based authentication** and **BCrypt hashing** to strengthen API security and access control.
-- Integrated frontend and backend systems using **REST APIs**, improving response time and maintainability.
+### Backend & Core
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
 
-## Education
-
-**Bachelor of Technology (B.Tech) in Information Technology**  
-**Bengal College of Engineering and Technology**  
-**Aug. 2021 – Sept. 2025**  
-**CGPA**: 7.63  
-**Location**: Durgapur, West Bengal
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realrohitsingh&show_icons=true&theme=radical)
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
 ---
 
-## Contact
+## 🚀 Featured Projects
 
-Feel free to reach out to me via email at [rohitsingh888399@gmail.com](mailto:rohitsingh888399@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rohit-singh-java/).
+### 📄 Intelligent Resume Screening Tool
+🔹 **Java | Spring Boot | React | SQL**  
+🔹 Reduced manual screening time by **~40%**  
+🔹 Built scalable REST APIs for high-volume candidate data  
+🔹 Real-time metrics dashboard
+
+⭐ Backend Architecture • Secure APIs • Scalable Design
 
 ---
 
-### Let's Build Something Great Together!
+### 🎓 Student Management System
+🔹 **Java | Servlets | JSP | JDBC | MySQL**  
+🔹 Managed **500+ student records**  
+🔹 MVC architecture for maintainability  
+🔹 Optimized SQL queries
+
+⭐ Enterprise-style CRUD • Clean Architecture
+
+---
+
+### 🛒 SmartShop – E-commerce Platform
+🔹 **React | Tailwind CSS**  
+🔹 Admin dashboard with RBAC  
+🔹 Responsive UI
+
+⭐ Frontend Integration Project
+
+---
+
+## 💼 Experience
+
+### Software Developer Intern (Backend)
+**Go Academy | Bangalore**  
+_June 2025 – Nov 2025_
+
+- Built scalable backend modules using **Java, JDBC, MySQL**
+- Implemented **JWT authentication & BCrypt hashing**
+- Integrated frontend with REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realrohitsingh&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realrohitsingh&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+🌐 Portfolio: https://www.rohitks.site  
+💼 LinkedIn: https://linkedin.com/in/rohit-singh-java  
+📧 Email: rohitsingh888399@gmail.com  
+
+---
+
+⭐ **Backend-driven. Clean architecture. Production mindset.**
